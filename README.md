@@ -2,6 +2,7 @@
 
 ## Project overview
 This project delivers a comprehensive 2024 inventory analysis for zara, focusing on the intersection of pricing strategy and market segmentation. Build in tableau, the dashboard provides a high-level executive view while allowing for deep-dive product analytics
+<img width="1692" height="856" alt="Screenshot 2026-02-22 101604" src="https://github.com/user-attachments/assets/2174ebb4-e9a6-41a9-9fd1-b593fec25678" />
 
 ## Project Objectives
 ### Buisness Objectives 
